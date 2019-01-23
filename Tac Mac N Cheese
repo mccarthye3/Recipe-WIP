@@ -14,10 +14,10 @@
 
 
 <p> 
-Do you want to know how to make <em>the best</em>macaroni and cheese? I don't mean your average mac, I mean <strong>bomb.com</strong>mac and cheese; The kind that has actual spice and several kinds of cheese. If that sounds like it is up your alley, then you have found <em> the</em> recipe. This recipe will make about 4 servings, so it will definitely feed your family, or at the very least, you will have seconds for yourself. 
+Do you want to know how to make <em> the best</em>macaroni and cheese? I don't mean your average mac, I mean <strong>bomb.com</strong>mac and cheese; The kind that has actual spice and several kinds of cheese. If that sounds like it is up your alley, then you have found <em> the</em> recipe. This recipe will make about 4 servings, so it will definitely feed your family, or at the very least, you will have seconds for yourself. 
 </p>
  
-<section>  
+<section id="ingedients">  
   <h2>Ingredients Needed</h2>
   <ul>
     <li>2lbs of 93% lean ground hamburger 
@@ -48,7 +48,8 @@ Do you want to know how to make <em>the best</em>macaroni and cheese? I don't me
     <li>Spatula </li>
 </ul>
 </section>
-                    
+ 
+ <section id="directions">
 <h2> Directions</h2>
 <h4>The Taco Meat</h4>
 <ol type="1">
@@ -59,6 +60,7 @@ Do you want to know how to make <em>the best</em>macaroni and cheese? I don't me
     <li>Cook the hamburger over medium heat until it browns. Continue to flip the meat to cook evenly on all sides. </li>
     <li>Once your meat is brown, remove from heat, and cover.</li> 
 </ol type="1">
+</section>
                
 
                
