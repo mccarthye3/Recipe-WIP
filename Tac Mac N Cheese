@@ -7,17 +7,21 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width">
   <title>Project 1: Recipe</title> </head> 
-             
- <h1>Bomb Taco Mac N' Cheese</h1>
-   <img src="https://i.pinimg.com/736x/98/d6/8d/98d68d1c53f84f437a8f78c63c86d04f.jpg" 
-   alt="tasty mac" height="300" width="300">
+ 
+<header>
+  <h1>Bomb Taco Mac N' Cheese</h1>
+  <figure>
+    <img src="https://i.pinimg.com/736x/98/d6/8d/98d68d1c53f84f437a8f78c63c86d04f.jpg" 
+     alt="tasty mac" height="300" width="300">
+  </figure>
+</header>
 
 
 <p> 
 Do you want to know how to make <em> the best</em>macaroni and cheese? I don't mean your average mac, I mean <strong>bomb.com</strong>mac and cheese; The kind that has actual spice and several kinds of cheese. If that sounds like it is up your alley, then you have found <em> the</em> recipe. This recipe will make about 4 servings, so it will definitely feed your family, or at the very least, you will have seconds for yourself. 
 </p>
  
-<section id="ingedients">  
+<section class="list" id="ingedients">  
   <h2>Ingredients Needed</h2>
   <ul>
     <li>2lbs of 93% lean ground hamburger 
@@ -49,7 +53,7 @@ Do you want to know how to make <em> the best</em>macaroni and cheese? I don't m
 </ul>
 </section>
  
- <section id="directions">
+ <section class="list" id="directions">
 <h2> Directions</h2>
 <h4>The Taco Meat</h4>
 <ol type="1">
