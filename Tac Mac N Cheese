@@ -9,92 +9,84 @@
   <title>Project 1: Recipe</title>
 </head> 
              
-  <marquee direction="up" behavior="alternate" style="height:100px"><h1> <font color="red"> Bomb </font> <font color= "green"> Taco </font> <font color= "orange">
-    Mac N' Cheese </font> </h1></marquee>
-   <img src="https://i.pinimg.com/736x/98/d6/8d/98d68d1c53f84f437a8f78c63c86d04f.jpg" 
-        alt="https://i.pinimg.com/736x/98/d6/8d/98d68d1c53f84f437a8f78c63c86d04f.jpg" height="300" width="300">
-        
-  <body>
-<br>
-    <br>Do you want to know how to make <i> the best </i> macaroni and cheese? 
-    I don't mean your average mac, I mean <b> bomb.com </b> mac and cheese;
-    The kind that has actual spice and several kinds of cheese. 
-    If that sounds like it is up your alley, then you have found <i> the </i> recipe.
-    This recipe will make about 4 servings, so it will definitely feed your family,
-    or at the very least, you will have seconds for yourself. 
-   </body>
-  
-  <h2> <u> Ingrediants Needed </u> </h2>
-  <li> 2lbs of 93% lean ground hamburger 
-  <li> <font size="2"><sup>1</sup>/<sub>2</sub></font> cup of shredded montery jack cheese
-  <li> <font size="2"><sup>1</sup>/<sub>2</sub></font> cup of shredded sharp cheddar cheese
-        <li> 1 cup of shredded asadero cheese
-        <br> <i>(If you're too lazy to grab all of these, you can opt to buy three 
-          bags of the mexican blend cheese from your local grocery store. I reccommend 
-          three if you would like to add extra cheese to bake on top)</i> </b>
-<li> 1 tablespoon of flour </li>
-<li> 3 tablespoons of butter </li>
-<li> <font size="2"><sup>1</sup>/<sub>2</sub></font> gallon of whole milk </li>
-<li> Adobo </li>
-<li> Chili powder </li>
-<li> Red pepper flakes</li>
-<li>Keyan pepper </li>
-<li> Garlic powder </li>
-<li> 1lb of macaroni </li>
-<li> 1 tomato </li>
-<li> 1 cup of green onion </li>
-<li> 1 packet of taco seasoning </li>
-<li> Medium sized frying pan </li>
-<li> Large sauce pan </li>
-<li> Medium sauce pan </li>
-<li> Wooden spoon</li>
-<li> Cooking spray </li>
-<li> Spatula </li>
+ <h1>Bomb Taco Mac N' Cheese</h1>
+   <alt="mac n cheese" img src="https://i.pinimg.com/736x/98/d6/8d/98d68d1c53f84f437a8f78c63c86d04f.jpg "height="300" width="300">
+<body>
+
+<p> 
+Do you want to know how to make <em>the best</em>macaroni and cheese? I don't mean your average mac, I mean <strong>bomb.com</strong>mac and cheese; The kind that has actual spice and several kinds of cheese. If that sounds like it is up your alley, then you have found <em> the</em> recipe. This recipe will make about 4 servings, so it will definitely feed your family, or at the very least, you will have seconds for yourself. 
+</p>
+ 
+<section>  
+  <h2>Ingrediants Needed</h2>
+  <ul>
+    <li>2lbs of 93% lean ground hamburger 
+    <li><sup>1</sup>/<sub>2</sub>cup of shredded montery jack cheese
+    <li><sup>1</sup>/<sub>2</sub>cup of shredded sharp cheddar cheese
+    <li> 1 cup of shredded asadero cheese
+        <p>(If you're too lazy to grab all of these, you can opt to buy three 
+        bags of the mexican blend cheese from your local grocery store. I reccommend 
+        three if you would like to add extra cheese to bake on top)
+        </p>
+    <li>1 tablespoon of flour </li>
+    <li>3 tablespoons of butter </li>
+    <li> <font size="2"><sup>1</sup>/<sub>2</sub></font> gallon of whole milk</li>
+    <li>Adobo </li>
+    <li>Chili powder </li>
+    <li>Red pepper flakes</li>
+    <li>Keyan pepper </li>
+    <li>Garlic powder </li>
+    <li>1lb of macaroni </li>
+    <li>1 tomato </li>
+    <li>1 cup of green onion </li>
+    <li>1 packet of taco seasoning </li>
+    <li>Medium sized frying pan </li>
+    <li>Large sauce pan </li>
+    <li>Medium sauce pan </li>
+    <li>Wooden spoon</li>
+    <li>Cooking spray </li>
+    <li>Spatula </li>
+</ul>
+</section>
                     
-     <br> <h2> Directions </h2>
-<h4> <u> <font color="brown"> <font size="4"> The Taco Meat </u> </font></font> </h4>
-             <ol type="1">
-<li> Spray down your frying pan with a generous layer of cooking spray. Put the stove on medium
-                 heat. </li>
-<li> Place your hamburger in the pan. Use your spatula to break the hamburger up into small 
-                 chunks. </li>
-<li> Coat the hamburger in an even layer of adobo abd garlic poweder. Add a gentle sprinkle
-                 of chili poweder and kayen peper. There will be more spice in the cheese, so do not over load
-                 your meet. Otherwise, you will lose the flavor of the meat.</li>
-<li> Use the spatula to stir the seasoning into meat, and continue to break up the hamburger into
-                 fine chunks. </li>
-<li> Cook the hamburger over medium heat until it browns. Continue to flip the meat to cook
-                 evenly on all sides. </li>
-<li> Once your meat is brown, remove from heat, and cover. </li> </ol type="1">
+<h2> Directions</h2>
+<h4>The Taco Meat</h4>
+<ol type="1">
+    <li>Spray down your frying pan with a generous layer of cooking spray. Put the stove on medium heat. </li>
+    <li>Place your hamburger in the pan. Use your spatula to break the hamburger up into small chunks. </li>
+    <li>Coat the hamburger in an even layer of adobo abd garlic poweder. Add a gentle sprinkle of chili poweder and kayen peper. There will be more spice in the cheese, so do not over load your meat. Otherwise, you will lose the flavor of the meat.</li>
+    <li>Use the spatula to stir the seasoning into meat, and continue to break up the hamburger into fine chunks. </li>
+    <li>Cook the hamburger over medium heat until it browns. Continue to flip the meat to cook evenly on all sides. </li>
+    <li>Once your meat is brown, remove from heat, and cover.</li> 
+</ol type="1">
                
 
                
-                <br> <font color="orange"> <font size="4"> <u> The Cheese </u> </font> </font> 
-               <ol type="1"> 
-<li> Put the stove on medium heat. Take your butter, and melt in the bottom of the medium sauce pan, 
-  coating it entirely. </li>
-<li> Take your flour, and sprinkle into the pan. Stir the flour quickly, until it is an even paste with no bumps. </li>
-<li> Slowly stir in the milk until the mixture becomes thick. If it is not thickening, mix flour in a cup
-  with water until you have a thick paste, and pour into the milk mixture. Do so until you achieve
-  your desired thickness. </li>
-<li> Next, add your cheeses. Mix evenly until all the cheese has melted together. At this time, you may also
-  add your packet of taco seasoning, and additional seasoning if you would like your cheese sauce to be
-  spicier. </li> </ol type="1">
+<h4>The Cheese</h4>
+<ol type="1"> 
+    <li>Put the stove on medium heat. Take your butter, and melt in the bottom of the medium sauce pan, coating it entirely. </li>
+    <li>Take your flour, and sprinkle into the pan. Stir the flour quickly, until it is an even paste with no bumps. </li>
+    <li>Slowly stir in the milk until the mixture becomes thick. If it is not thickening, mix flour in a cup
+    with water until you have a thick paste, and pour into the milk mixture. Do so until you achieve your desired thickness. </li>
+    <li>Next, add your cheeses. Mix evenly until all the cheese has melted together. At this time, you may also add your packet of taco seasoning, and additional seasoning if you would like your cheese sauce to be spicier. </li> 
+</ol type="1">
 
-<h4 align="left"> <font size ="4"> <font color="tan"> <u> The Pasta </u> </font> </font> </h4>
+<h4>The Pasta</h4>
   
-  <ol type="1">
-    
-    <li> Fill your large sauce pan up approximately half way with water. </li>
-    <li> Place your sauce pan on the stove over high heat. </li>
-    <li> Once the water beings to boil, add your pasta. </li>
-    <li> Stir occassionally, and continue to boil over high heat until the pasta is tender. Strain. </li> </ol type="1">
-    
-    <h2> <u> <font color="red">Putting</font> <font color="green">It</font> <font color="orange">Together</font>
-      </h2> </u> 
-    
-    <body> Combine the pasta, hambuger, and cheese within the large sauce pan. Carefully stir all the contents 
-      together until well blended. If you would like, you can put your mac n cheese into a baking pan
-      (approximately 9x13) and place the left over cheese over the top. You can bake it on 420 &#176 for about 
-      10 minutes until the cheese is melted. Serve with tomato and green onion as a garnish.
-      
+<ol type="1">
+    <li>Fill your large sauce pan up approximately half way with water. </li>
+    <li>Place your sauce pan on the stove over high heat. </li>
+    <li>Once the water beings to boil, add your pasta. </li>
+    <li>Stir occassionally, and continue to boil over high heat until the pasta is tender. Strain. </li> 
+</ol type="1">
+
+<h4>Putting It ogether</h4>
+<p>
+Combine the pasta, hambuger, and cheese within the large sauce pan. Carefully stir all the contents 
+together until well blended. If you would like, you can put your mac n cheese into a baking pan
+(approximately 9x13) and place the left over cheese over the top. You can bake it on 420 &#176 for about 
+10 minutes until the cheese is melted. Serve with tomato and green onion as a garnish.
+<p>
+
+</body>
+</html>
