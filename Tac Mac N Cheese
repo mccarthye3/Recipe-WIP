@@ -9,7 +9,8 @@
   <title>Project 1: Recipe</title> </head> 
              
  <h1>Bomb Taco Mac N' Cheese</h1>
-   <img src="https://i.pinimg.com/736x/98/d6/8d/98d68d1c53f84f437a8f78c63c86d04f.jpg" height="300" width="300">
+   <img src="https://i.pinimg.com/736x/98/d6/8d/98d68d1c53f84f437a8f78c63c86d04f.jpg" 
+   alt="tasty mac" height="300" width="300">
 
 
 <p> 
